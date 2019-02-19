@@ -1,4 +1,4 @@
-# React Test
+# React Test Component
 
 ## Instructions
 
@@ -6,7 +6,7 @@ Please build a React component to display the information as depicted in the moc
 
 ## Mockup
 
-This the URL for the mockup: https://i.imgur.com/j8U2QNy.png
+![](https://github.com/TheChipmunks/react-component/blob/master/screenshot.png)
 
 ## Component Usage
 
